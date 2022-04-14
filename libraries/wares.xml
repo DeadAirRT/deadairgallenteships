@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="//wares">
+		<!-- SHIPS -->
+		<ware id="ship_dga_l_thorax" name="{4816393,106}" description="{4816393,206}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="4595057" average="5058890" max="5522724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="800"/>
+					<ware ware="hullparts" amount="3650"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_thorax_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_l_hyperion" name="{4816393,101}" description="{4816393,201}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="7559033" average="8892980" max="10226927"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1387"/>
+					<ware ware="hullparts" amount="6102"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_hyperion_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_l_obelisk" name="{4816393,103}" description="{4816393,203}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="7559033" average="8892980" max="10226927"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="5"/>
+					<ware ware="hullparts" amount="5"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_obelisk_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_l_megathron" name="{4816393,102}" description="{4816393,202}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="5495057" average="5858890" max="6522724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1000"/>
+					<ware ware="hullparts" amount="4050"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_megathron_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_l_talos" name="{4816393,105}" description="{4816393,205}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="5195057" average="5658890" max="6222724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="850"/>
+					<ware ware="hullparts" amount="3870"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_talos_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_l_brutix" name="{4816393,100}" description="{4816393,200}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="5195057" average="5658890" max="6222724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="850"/>
+					<ware ware="hullparts" amount="3870"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_brutix_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_l_proteus" name="{4816393,104}" description="{4816393,204}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="4595057" average="5058890" max="5522724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="800"/>
+					<ware ware="hullparts" amount="3650"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_l_proteus_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_xl_thanatos" name="{4816393,107}" description="{4816393,207}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="16038308" average="18650950" max="21263593"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="3703"/>
+					<ware ware="hullparts" amount="13035"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_xl_thanatos_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+		<ware id="ship_dga_xl_erebus" name="{4816393,108}" description="{4816393,208}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="16038308" average="18650950" max="21263593"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="3703"/>
+					<ware ware="hullparts" amount="13035"/>
+				</primary>
+			</production>
+			<component ref="ship_dga_xl_erebus_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="galdente"/>
+		</ware>
+	</add>
+	<!-- ISHIELDS -->
+	<add sel="//wares">
+		<ware id="ishield_dga_l_thorax" name="{4816393,306}" description="{4816393,306}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_thorax_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_l_hyperion" name="{4816393,301}" description="{4816393,301}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_hyperion_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_l_obelisk" name="{4816393,303}" description="{4816393,303}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_obelisk_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_l_megathron" name="{4816393,302}" description="{4816393,302}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_megathron_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_l_talos" name="{4816393,305}" description="{4816393,305}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_talos_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_l_brutix" name="{4816393,300}" description="{4816393,300}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_brutix_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_l_proteus" name="{4816393,304}" description="{4816393,304}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_l_proteus_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_xl_thanatos" name="{4816393,307}" description="{4816393,307}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_xl_thanatos_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dga_xl_erebus" name="{4816393,308}" description="{4816393,308}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dga_xl_erebus_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+	</add>
+</diff>

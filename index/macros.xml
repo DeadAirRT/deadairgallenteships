@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dga_l_obelisk_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_obelisk_macro" />
+  <entry name="storage_dga_l_obelisk_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_obelisk_macro" />
+  <entry name="ship_dga_l_brutix_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_brutix_macro" />
+  <entry name="storage_dga_l_brutix_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_brutix_macro" />
+  <entry name="ship_dga_l_proteus_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_proteus_macro" />
+  <entry name="storage_dga_l_proteus_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_proteus_macro" />
+  <entry name="ship_dga_l_hyperion_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_hyperion_macro" />
+  <entry name="storage_dga_l_hyperion_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_hyperion_macro" />
+  <entry name="ship_dga_l_thorax_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_thorax_macro" />
+  <entry name="storage_dga_l_thorax_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_thorax_macro" />
+  <entry name="ship_dga_l_megathron_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_megathron_macro" />
+  <entry name="storage_dga_l_megathron_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_megathron_macro" />
+  <entry name="ship_dga_l_talos_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\ship_dga_l_talos_macro" />
+  <entry name="storage_dga_l_talos_macro" value="extensions\deadairgallenteships\assets\units\size_l\macros\storage_dga_l_talos_macro" />
+  
+  <entry name="ishield_dga_l_obelisk_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_obelisk_macro" />
+  <entry name="ishield_dga_l_brutix_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_brutix_macro" />
+  <entry name="ishield_dga_l_proteus_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_proteus_macro" />
+  <entry name="ishield_dga_l_hyperion_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_hyperion_macro" />
+  <entry name="ishield_dga_l_thorax_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_thorax_macro" />
+  <entry name="ishield_dga_l_megathron_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_megathron_macro" />
+  <entry name="ishield_dga_l_talos_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_l_talos_macro" />
+  
+  <entry name="ship_dga_xl_thanatos_macro" value="extensions\deadairgallenteships\assets\units\size_xl\macros\ship_dga_xl_thanatos_macro" />
+  <entry name="storage_dga_xl_thanatos_macro" value="extensions\deadairgallenteships\assets\units\size_xl\macros\storage_dga_xl_thanatos_macro" />
+  <entry name="ishield_dga_xl_thanatos_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_xl_thanatos_macro" />
+  
+  <entry name="ship_dga_xl_erebus_macro" value="extensions\deadairgallenteships\assets\units\size_xl\macros\ship_dga_xl_erebus_macro" />
+  <entry name="storage_dga_xl_erebus_macro" value="extensions\deadairgallenteships\assets\units\size_xl\macros\storage_dga_xl_erebus_macro" />
+  <entry name="ishield_dga_xl_erebus_macro" value="extensions\deadairgallenteships\assets\props\surfaceelements\macros\ishield_dga_xl_erebus_macro" />
+</index>

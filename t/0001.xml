@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+
+<page id="4816393" title="DeadAir T Files" descr="names used in DeadAir Mods" voice="yes">
+<!-- 3323247 == deadair --><!--48163x69 == 3323247 since there is a character limit --><!--48163##-->
+<!-- 100 ship name -->
+<!-- 200 ship description -->
+<!-- 300 ishield -->
+ <t id="100">Brutix</t>
+ <t id="200">One of the most ferocious war vessels to ever spring from Gallente starship design, the Brutix is a behemoth in every sense of the word. When this hard-hitting monster appears, the battlefield takes notice.</t>
+ <t id="300">IG L - Brutix Internal Generator</t>
+ <t id="101">Hyperion</t>
+ <t id="201">Recognizing the necessity for a blaster platform to round out their high-end arsenal, the Federation Navy brought in top-level talent to work on the Hyperion. The result: one of the most lethal and versatile gunboats ever to take to the dark skies.</t>
+ <t id="301">IG L - Hyperion Internal Generator</t>
+ <t id="102">Megathron</t>
+ <t id="202">The Megathron has established itself as one of the most feared and respected battleships around. Since its first appearance almost two decades ago it has seen considerable service in the troublesome regions on the outskirts of the Federation, helping to expand and defend Gallentean influence there.</t>
+ <t id="302">IG L - Megathron Internal Generator</t>
+ <t id="103">Obelisk</t>
+ <t id="203">The Obelisk was designed by the Federation in response to the Caldari State's Charon freighter. Possessing similar characteristics but placing a greater emphasis on resilience, this massive juggernaut represents the latest, and arguably finest, step in Gallente transport technology.</t>
+ <t id="303">IG L - Obelisk Internal Generator</t>
+ <t id="104">Proteus</t>
+ <t id="204">Freedom is liquid, supple, mellifluous. It surrounds us, engulfs our bodies, drowns our fear. We plumb freedom's depths and consume the nourishment within. From these waters, we are born; when we die, we shall return to those waters.\n\Out there, among the stars, are the waters, freedom incarnate. That dark, endless void is our destiny, our path, our goal. We must not fear it, nor should we control it. Rather, we should embrace it, trust it, love it. Its ever-changing face, its protean existence, is our very essence. We are those stars, the void, the awesome waters of space: ancient, forever, free.\n\- Jinsente Parmen, The Gallente in New Eden</t>
+ <t id="304">IG L - Proteus Internal Generator</t>
+ <t id="105">Talos</t>
+ <t id="205">The Talos began in YC 110 as an R&amp;D concept by ORE. Conceived as a patrol craft for mining operations in lawless space, the Talos would have been abandoned completely were it not adopted by the Black Eagles, a black-ops branch of the Gallente government. The Black Eagles stripped the Talos of non-essential systems and bolted on battleship-class weapons, creating a quick-strike craft ideal for guerilla action.\n\The Talos remained a military secret until YC 113, when it was introduced into wider circulation as a third tier battlecruiser. Today the Talos is manufactured by Duvolle Labs, who modified the original ORE designs to bring it in line with Gallente standards.</t>
+ <t id="305">IG L - Talos Internal Generator</t>
+ <t id="106">Thorax</t>
+ <t id="206">The Thorax-class cruiser is the latest combat ship commissioned by the Federation. While the Thorax is a very effective ship at any range, typical of modern Gallente design philosophy it is most effective when working at extreme close range where its blasters and hordes of combat drones tear through even the toughest of enemies.</t>
+ <t id="306">IG L - Thorax Internal Generator</t>
+ <t id="107">Thanatos</t>
+ <t id="207">Sensing the need for a more moderately-priced version of the Nyx, Federation Navy authorities commissioned the design of the Thanatos. Designed to act primarily as a fighter carrier for small- to mid-scale engagements, its significant defensive capabilities and specially-fitted fighter bays make it ideal for its intended purpose.</t>
+ <t id="307">IG XL - Thanatos Internal Generator</t>
+ <t id="108">Erebus</t>
+ <t id="208">From the formless void's gaping maw, there springs an entity. Not an entity such as any you can conceive of, nor I; an entity more primordial than the elements themselves, yet constantly coming into existence even as it is destroyed. It is the Child of Chaos, the Pathway to the Next.\n\The darkness shall swallow the land, and in its wake there will follow a storm, as the appetite of nothing expands over the world.\n\From the formless void's gaping maw, there springs an entity.\n\Dr. Damella Macaper\n\The Seven Events of the Apocalypse</t>
+ <t id="308">IG XL - Erebus Internal Generator</t>
+</page>
+</language>

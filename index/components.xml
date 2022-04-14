@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dga_l_obelisk" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_obelisk" />
+  <entry name="ship_dga_l_brutix" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_brutix" />
+  <entry name="ship_dga_l_proteus" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_proteus" />
+  <entry name="ship_dga_l_hyperion" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_hyperion" />
+  <entry name="ship_dga_l_thorax" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_thorax" />
+  <entry name="ship_dga_l_megathron" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_megathron" />
+  <entry name="ship_dga_l_talos" value="extensions\deadairgallenteships\assets\units\size_l\ship_dga_l_talos" />
+  <entry name="ship_dga_xl_thanatos" value="extensions\deadairgallenteships\assets\units\size_xl\ship_dga_xl_thanatos" />
+  <entry name="ship_dga_xl_erebus" value="extensions\deadairgallenteships\assets\units\size_xl\ship_dga_xl_erebus" />
+  <entry name="ishield_dga_l_obelisk" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_obelisk" />
+  <entry name="ishield_dga_l_brutix" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_brutix" />
+  <entry name="ishield_dga_l_proteus" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_proteus" />
+  <entry name="ishield_dga_l_hyperion" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_hyperion" />
+  <entry name="ishield_dga_l_thorax" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_thorax" />
+  <entry name="ishield_dga_l_megathron" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_megathron" />
+  <entry name="ishield_dga_l_talos" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_l_talos" />
+  <entry name="ishield_dga_xl_thanatos" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_xl_thanatos" />
+  <entry name="ishield_dga_xl_erebus" value="extensions\deadairgallenteships\assets\props\surfaceelements\ishield_dga_xl_erebus" />
+</index>
