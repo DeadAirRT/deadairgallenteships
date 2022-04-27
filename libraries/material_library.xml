@@ -11,7 +11,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\obelisk\obelisk_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -42,7 +42,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\brutix\brutix_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -73,7 +73,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\proteus\proteusA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -102,7 +102,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\proteus\proteusB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -131,7 +131,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\proteus\proteusC_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -160,7 +160,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\proteus\proteusD_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -191,7 +191,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\hyperion\hyperion_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -222,7 +222,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\thanatos\thanatosA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -251,7 +251,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\thanatos\thanatosB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -282,7 +282,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\erebus\erebusA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -311,7 +311,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\erebus\erebusB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -342,7 +342,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\thorax\thorax_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -373,7 +373,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\megathron\megathron_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -404,7 +404,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairgallenteships\assets\textures\talos\talos_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />

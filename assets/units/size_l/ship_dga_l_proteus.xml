@@ -263,35 +263,35 @@
 					<quaternion qw="-0.9989455866120512" qx="0.004375770521039412" qy="-0.00020016534440980596" qz="0.04570041087875315"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dga_l">
+			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dga_l symmetry symmetry_left">
 				<offset>
 					<position x="-13.169" y="-25.7289" z="174.182"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dga_l">
+			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dga_l symmetry symmetry_right">
 				<offset>
 					<position x="13.169" y="-25.7289" z="174.182"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_1" tags="countermeasures">
+			<connection name="con_countermeasures_counter_1" tags="countermeasures">
 				<offset>
 					<position x="-51.700100000000006" y="-60.1041" z="-243.5196"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_2" tags="countermeasures">
+			<connection name="con_countermeasures_counter_2" tags="countermeasures">
 				<offset>
 					<position x="51.6993" y="-60.1041" z="-243.5196"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_3" tags="countermeasures">
+			<connection name="con_countermeasures_counter_3" tags="countermeasures">
 				<offset>
 					<position x="-37.9243" y="-46.8357" z="-26.0456"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_4" tags="countermeasures">
+			<connection name="con_countermeasures_counter_4" tags="countermeasures">
 				<offset>
 					<position x="37.9235" y="-46.8357" z="-26.0456"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>

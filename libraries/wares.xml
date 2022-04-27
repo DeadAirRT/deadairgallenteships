@@ -121,8 +121,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_l_hyperion" name="{4816393,301}" description="{4816393,301}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -132,8 +136,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_l_obelisk" name="{4816393,303}" description="{4816393,303}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -143,8 +151,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_l_megathron" name="{4816393,302}" description="{4816393,302}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -154,8 +166,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_l_talos" name="{4816393,305}" description="{4816393,305}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -165,8 +181,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_l_brutix" name="{4816393,300}" description="{4816393,300}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -176,8 +196,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_l_proteus" name="{4816393,304}" description="{4816393,304}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -187,8 +211,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_xl_thanatos" name="{4816393,307}" description="{4816393,307}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -198,8 +226,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 		<ware id="ishield_dga_xl_erebus" name="{4816393,308}" description="{4816393,308}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="12" average="16" max="21"/>
@@ -209,8 +241,12 @@
 					<ware ware="energycells" amount="1"/>
 				</primary>
 			</production>
+			<production time="1" amount="1" method="closedloop" name="{20206,1201}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
 			<use threshold="0"/>
-			<restriction licence="generaluseequipment"/>
 		</ware>
 	</add>
 </diff>

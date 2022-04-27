@@ -317,35 +317,35 @@
 					<quaternion qw="-0.9789781535801639" qx="-0.0" qy="-0.0" qz="0.20396513136507688"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dga_l">
+			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dga_l symmetry symmetry_left">
 				<offset>
 					<position x="-14.426400000000001" y="-2.0966" z="235.81690000000003"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dga_l">
+			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dga_l symmetry symmetry_right">
 				<offset>
 					<position x="14.426400000000001" y="-2.0966" z="235.81690000000003"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_1" tags="countermeasures">
+			<connection name="con_countermeasures_counter_1" tags="countermeasures">
 				<offset>
 					<position x="-106.38399999999999" y="-29.0564" z="-151.774"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_2" tags="countermeasures">
+			<connection name="con_countermeasures_counter_2" tags="countermeasures">
 				<offset>
 					<position x="106.38399999999999" y="-29.0564" z="-151.774"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_3" tags="countermeasures">
+			<connection name="con_countermeasures_counter_3" tags="countermeasures">
 				<offset>
 					<position x="-73.3265" y="-64.491" z="-58.8985"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_4" tags="countermeasures">
+			<connection name="con_countermeasures_counter_4" tags="countermeasures">
 				<offset>
 					<position x="73.3265" y="-64.491" z="-58.8985"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
