@@ -3,11 +3,11 @@
 	<add sel="//wares">
 		<!-- SHIPS -->
 		<ware id="ship_dga_l_thorax" name="{4816393,106}" description="{4816393,206}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="3706281" average="4360330" max="5014380"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="2228"/>
+					<ware ware="hullparts" amount="4002"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_thorax_macro" amount="1"/>
@@ -15,11 +15,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_l_hyperion" name="{4816393,101}" description="{4816393,201}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="5426141" average="6383695" max="7341249"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1387"/>
-					<ware ware="hullparts" amount="6102"/>
+					<ware ware="energycells" amount="3263"/>
+					<ware ware="hullparts" amount="5859"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_hyperion_macro" amount="1"/>
@@ -27,11 +27,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_l_obelisk" name="{4816393,103}" description="{4816393,203}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="1696396" average="1995760" max="2295124"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="5"/>
-					<ware ware="hullparts" amount="5"/>
+					<ware ware="energycells" amount="703"/>
+					<ware ware="hullparts" amount="1856"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_obelisk_macro" amount="1"/>
@@ -39,11 +39,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_l_megathron" name="{4816393,102}" description="{4816393,202}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5495057" average="5858890" max="6522724"/>
+			<price min="4932508" average="5802950" max="6673392"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1000"/>
-					<ware ware="hullparts" amount="4050"/>
+					<ware ware="energycells" amount="2966"/>
+					<ware ware="hullparts" amount="5326"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_megathron_macro" amount="1"/>
@@ -51,11 +51,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_l_talos" name="{4816393,105}" description="{4816393,205}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="3369154" average="3963710" max="4558267"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="2025"/>
+					<ware ware="hullparts" amount="3638"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_talos_macro" amount="1"/>
@@ -63,11 +63,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_l_brutix" name="{4816393,100}" description="{4816393,200}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="4484235" average="5275570" max="6066905"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="2696"/>
+					<ware ware="hullparts" amount="4842"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_brutix_macro" amount="1"/>
@@ -75,11 +75,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_l_proteus" name="{4816393,104}" description="{4816393,204}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="4076745" average="4796170" max="5515596"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="2451"/>
+					<ware ware="hullparts" amount="4402"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_l_proteus_macro" amount="1"/>
@@ -87,11 +87,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_xl_thanatos" name="{4816393,107}" description="{4816393,207}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="7367800" average="8668000" max="9968200"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="3850"/>
+					<ware ware="hullparts" amount="8000"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_xl_thanatos_macro" amount="1"/>
@@ -99,11 +99,11 @@
 			<owner faction="galdente"/>
 		</ware>
 		<ware id="ship_dga_xl_erebus" name="{4816393,108}" description="{4816393,208}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="9209784" average="10835040" max="12460296"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="4813"/>
+					<ware ware="hullparts" amount="10000"/>
 				</primary>
 			</production>
 			<component ref="ship_dga_xl_erebus_macro" amount="1"/>
